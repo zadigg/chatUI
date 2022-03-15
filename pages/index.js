@@ -1,5 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
+import Chat from "../components/Chat";
+import Sidechat from "../components/Sidechat";
+import Sideicon from "../components/Sideicon";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -12,7 +15,9 @@ export default function Home() {
       </Head>
 
       <main className="">
-        
+        <Sideicon />
+        <Sidechat />
+        <Chat />
       </main>
     </div>
   );
