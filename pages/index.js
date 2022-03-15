@@ -18,7 +18,7 @@ export default function Home() {
         <div className="w-[128px] md:w-[110px] bg-[#0E1621] flex-none  overflow-scroll scrollbar-hide">
           <Sideicon className="" />
         </div>
-        <div className="  lg:w-[388px] 3xl:w-[400px] 4xl:w-[419px] flex-none bg-[#17212B] border-r border-r-yellow-400 overflow-scroll scrollbar-hide ">
+        <div className="  lg:w-[388px] 3xl:w-[400px] 4xl:w-[419px] flex-none bg-[#17212B] border-r border-r-[#0E1621] overflow-scroll scrollbar-hide ">
           <Chatlist className="" />
         </div>
         <div className="hidden lg:inline-block  bg-[#0E1621] flex-grow overflow-scroll scrollbar-hide">
