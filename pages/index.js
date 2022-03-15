@@ -14,10 +14,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="">
-        <Sideicon />
-        <Sidechat />
-        <Chat />
+      <main className="bg-[#17212b] text-[#f5f5f5] flex  h-screen ">
+        <div className="w-[128px] md:w-[110px] bg-green-700 flex-none">
+          <Sideicon className="" />
+        </div>
+        <div className="w-full lg:w-[388px] 3xl:w-[400px] 4xl:w-[419px] flex-none  bg-yellow-700">
+          <Sidechat />
+        </div>
+        <div className="hidden lg:inline-block  bg-red-700 flex-grow">
+          <Chat />
+        </div>
       </main>
     </div>
   );
