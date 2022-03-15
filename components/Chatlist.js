@@ -2,7 +2,7 @@ import React from "react";
 import { UserCircleIcon } from "@heroicons/react/solid";
 function Chatlist() {
   return (
-    <div className="mt-5">
+    <div className="mt-5 ">
       <div className="flex flex-col ">
         {/* ChatList header */}
         <div className="w-full ">
@@ -14,8 +14,8 @@ function Chatlist() {
         </div>
         <div className="w-full mt-4 border-b-2"></div>
         {/* ChatList body */}
-        <div className="max-w-[90%] mx-auto">
-          <div className="flex text-xl items-center ">
+        <div className="w-[95%] mx-auto">
+          <div className="flex text-xl items-center  ">
             <div>
               <UserCircleIcon className="w-20 text-[#768C9E]" />
             </div>
@@ -23,10 +23,10 @@ function Chatlist() {
               <div>
                 <h2>Dota 2</h2>
               </div>
-              <div className=" flex overflow-hidden truncate  max-w-[95%]  ">
+              <div className=" flex overflow-auto w-[87%] truncate   ">
                 I already ask mine, i cant do it again
               </div>
-            </div>
+            </div>{" "}
           </div>
         </div>
       </div>
