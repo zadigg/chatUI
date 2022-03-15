@@ -5,7 +5,7 @@ function Chatlist() {
     <div className="mt-5 ">
       <div className="flex flex-col ">
         {/* ChatList header */}
-        <div className="w-full ">
+        <div className="w-full h-11 ">
           <input
             type="text"
             placeholder="Search"
