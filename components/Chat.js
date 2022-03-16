@@ -6,6 +6,11 @@ import {
   DotsVerticalIcon,
 } from "@heroicons/react/solid";
 
+import {
+  PaperClipIcon,
+  EmojiHappyIcon,
+  MicrophoneIcon,
+} from "@heroicons/react/outline";
 function Chat() {
   return (
     <div className="bg-[#17212B] h-[100%]">
@@ -25,10 +30,114 @@ function Chat() {
           </div>
         </div>
         {/* Messages */}
-        <div className="bg-[#0E1621] h-[92vh] flex flex-col justify-between ">
-          <div>asd</div>
-          {/* Message reply */}
-          <div>saa</div>
+        <div className="bg-[#0E1621]   ">
+          <div className=" h-[90vh] flex flex-col justify-between">
+            <div className="ml-3 mr-4 mt-4 space-y-4 flex flex-col">
+              <div className="flex justify-start ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-end ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello Mate how're you doing
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-start ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-end ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello Mate how're you doing
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-start ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-end ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello Mate how're you doing
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-start ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-end ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello Mate how're you doing
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-start ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+              <div className="flex justify-end ">
+                <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
+                  Hello Mate how're you doing
+                  <span className="text-gray-500 pt-3 relative top-2 left-3">
+                    11:03 AM
+                  </span>
+                </p>
+              </div>
+            </div>
+            {/* Message reply */}
+            <div className="bg-[#17212B]">
+              <div className="flex items-center justify-between w- h-[69px] space-x-5 ml-3 mr-4">
+                <div className="">
+                  <PaperClipIcon className="w-9 text-gray-500 rotate-180" />
+                </div>
+                <div className="flex-grow">
+                  <input
+                    type="text"
+                    className="w-full p-4 bg-transparent outline-none text-xl placeholder:text-gray-500"
+                    placeholder="Write a message..."
+                  />
+                </div>
+                <div className="flex items-center space-x-6 ">
+                  <div>
+                    <EmojiHappyIcon className="w-9 text-gray-500" />
+                  </div>
+                  <div>
+                    <MicrophoneIcon className="w-9 text-gray-500" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -23,7 +23,7 @@ function Chatlist() {
               <div>
                 <h2>Dota 2</h2>
               </div>
-              <div className=" flex overflow-auto w-[87%] truncate   ">
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
                 I already ask mine, i cant do it again
               </div>
             </div>{" "}
