@@ -43,7 +43,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -59,7 +59,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -75,7 +75,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -91,7 +91,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -107,7 +107,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -123,7 +123,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
@@ -139,7 +139,7 @@ function Chat() {
               </div>
               <div className="flex justify-end ">
                 <p className="text-xl bg-[#17212B] py-3 px-6 rounded-md  ">
-                  Hello Mate how're you doing
+                  Hello Mate how are you doing
                   <span className="text-gray-500 pt-3 relative top-2 left-3">
                     11:03 AM
                   </span>
