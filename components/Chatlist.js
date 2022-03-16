@@ -14,7 +14,7 @@ function Chatlist() {
         </div>
         <div className="w-full mt-4 border-b-2"></div>
         {/* ChatList body */}
-        <div className="w-[95%] mx-auto">
+        <div className="w-[95%] mx-auto h-[90vh] overflow-scroll scrollbar-hide">
           <div className="flex text-xl items-center  ">
             <div>
               <UserCircleIcon className="w-20 text-[#768C9E]" />
@@ -26,8 +26,191 @@ function Chatlist() {
               <div className=" flex overflow-auto lg:w-[87%] truncate   ">
                 I already ask mine, i cant do it again
               </div>
-            </div>{" "}
+            </div>
           </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
+          <div className="flex text-xl items-center  ">
+            <div>
+              <UserCircleIcon className="w-20 text-[#768C9E]" />
+            </div>
+            <div className="">
+              <div>
+                <h2>Dota 2</h2>
+              </div>
+              <div className=" flex overflow-auto lg:w-[87%] truncate   ">
+                I already ask mine, i cant do it again
+              </div>
+            </div>
+          </div>
+          {/*  */}
         </div>
       </div>
     </div>
